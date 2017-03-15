@@ -6,7 +6,7 @@
 ![Winner](./images/winner.png "When you win")
 
 ## Installation:
-* ``` git clone https://github.com/krshubham/electron-touchBar-demo```
+* ``` git clone https://github.com/krshubham/electron-touchBar-demo.git```
 * ``` yarn install```
 * **Make sure that electron beta is installed**
 * ``` npm install -g electron@beta ```
